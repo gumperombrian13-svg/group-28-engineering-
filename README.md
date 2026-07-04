@@ -28,7 +28,3 @@ Setup Instructions
 9. Enable Auto-Start 
     Configure the application to start automatically whenever the Raspberry Pi is powered on.
 
-   
-
-   * Configure the application to start automatically whenever the Raspberry Pi is powered on.
-
