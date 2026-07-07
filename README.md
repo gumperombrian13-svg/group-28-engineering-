@@ -1,13 +1,19 @@
 # group-28-engineering-
 real-time monkey alert and automatic deterrent system 
+
+
 problem  
 Farmers experiences severe crop loses due to monkey pest invasions, particularly during harvesting periods especially on farms near forested areas. Manual monitoring systems are unreliable and costly hence leading to more loses and limits profits from agricultural sector
+
+
 solution 
 Detects monkeys on the farm using camera-based image recognition.
 Identifies monkey activity through sound recognition technology.
 Sends instant real-time alerts to the farmer whenever monkeys are detected.
 Automatically activates sound-based deterrents to scare monkeys away from the farm.
 Provides live video monitoring of the farm over the internet for continuous remote surveillance
+
+
 Setup Instructions
 1. Prepare the Hardware
    Connect the Raspberry Pi, camera, microphone, speaker, and internet connection.
