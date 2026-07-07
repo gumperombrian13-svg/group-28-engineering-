@@ -2,11 +2,13 @@
 real-time monkey alert and automatic deterrent system 
 
 
-problem  
+problem 
+
 Farmers experiences severe crop loses due to monkey pest invasions, particularly during harvesting periods especially on farms near forested areas. Manual monitoring systems are unreliable and costly hence leading to more loses and limits profits from agricultural sector
 
 
-solution 
+solution
+
 Detects monkeys on the farm using camera-based image recognition.
 Identifies monkey activity through sound recognition technology.
 Sends instant real-time alerts to the farmer whenever monkeys are detected.
